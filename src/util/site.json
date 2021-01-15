@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Abdulrahman Azmy",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "Building software is my pursuit of happiness, my way to contribute to the world, so I love what I do and always give my best.\n",
+    "siteUrl": "https://azmy.blog",
+    "image": "/assets/azmy.png",
+    "iconimage": "/assets/azmy.png",
+    "twitterUsername": "@AbdulrahmanAzmy"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
